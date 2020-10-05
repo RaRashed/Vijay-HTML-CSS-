@@ -1,0 +1,67 @@
+body{
+	font-family: roboto;
+}
+nav{
+	background: #021428;
+	width: 100%;
+	height: 45px;
+	text-align: center;
+
+}
+a{
+	line-height: 4;
+	color: white;
+	font-weight: bolder;
+	text-decoration: none;
+	margin-left: 20px;
+	position: relative;
+	top: -13px;
+	left: 40px;
+}
+h1#page-title{
+	color: red;
+	margin-left: 400px;
+}
+a:hover{
+	color: yellow;
+}
+a:active{
+	color: red;
+}
+a.Button{
+	background: red;
+	padding: 20px;
+	border-radius: 20px;
+}
+a.Movie1-button{
+		background: red;
+	padding: 20px;
+	border-radius: 20px;
+	
+
+}
+section#paragraph{
+	margin: 100px;
+}
+section#Project1{
+	margin: 100px;
+}
+section#contentlist{
+	margin: 100px;
+}
+footer{
+	background: #021428;
+	width: 100%;
+	height: 60px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+ 
+}
+form{
+	color: red;
+}
+button{
+	background: blue;
+	color: white;
+}
